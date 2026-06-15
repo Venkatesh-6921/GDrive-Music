@@ -1,5 +1,4 @@
-# 🎵 GDrive-Music
-
+<h1 align="center">🎵 GDrive-Music</h1>
 > Stream your Google Drive music from the terminal — rclone + MPD + rmpc + cava
 
 ![License](https://img.shields.io/badge/license-MIT-green)
