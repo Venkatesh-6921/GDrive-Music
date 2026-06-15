@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Test artifacts
+test-output/
+
+# ── SECURITY — never commit these ────────────────────────────────────────────
+# rclone OAuth tokens (stored at ~/.config/rclone/rclone.conf — outside repo)
+# These are personal Google credentials — never add them to this repo
+rclone.conf
+*.conf
+
+# Private keys or credentials
+*.pem
+*.key
+id_rsa
+id_ed25519
+.env
+.env.*
