@@ -1,4 +1,4 @@
-# 🎵 gdrive-music
+# 🎵 GDrive-Music
 
 > Stream your Google Drive music from the terminal — rclone + MPD + rmpc + cava
 
