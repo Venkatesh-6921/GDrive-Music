@@ -14,6 +14,11 @@ and a spectrum visualizer — using less than 50 MB RAM.
 Google Drive (your music, any size)
   └─ rclone  →  MPD  →  rmpc (TUI + album art + lyrics + visualizer)
 ```
+## 🎬 Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="GDrive Music Demo" width="900">
+</p>
 
 ---
 
