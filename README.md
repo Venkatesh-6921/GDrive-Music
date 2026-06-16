@@ -24,7 +24,7 @@ Google Drive (your music, any size)
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Venkatesh-6921/gdrive-music&type=Date)](https://star-history.com/#Venkatesh-6921/gdrive-music&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Venkatesh-6921/GDrive-Music&type=Date)](https://star-history.com/#Venkatesh-6921/GDrive-Music&Date)
 
 ---
 
